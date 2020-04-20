@@ -1,0 +1,17 @@
+{
+  "name": "ipaapp",
+  "version": "0.0.0",
+  "description": "IPAApp",
+  "main": "index.js",
+  "author": {
+    "name": "Evgeniy Stukalov"
+  },
+  "scripts": {
+    "sattapp": "index.js"
+  },
+  "dependencies": {
+    "assert": "^2.0.0",
+    "ldapjs-client": "^0.1.1",
+    "zabbix-promise": "^2.0.2"
+  }
+}
